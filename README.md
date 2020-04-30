@@ -8,6 +8,7 @@ A repository containing the answers of all the questions in the Github assignmen
 # 2) - What language is used in Git?.
        Git is mainly built using C and Python Programming Languages.
 
+
 # 3) - What is the meaning of index and Staging Area in Git?
        Git index is the "holding area" of the main tree whose changes would be committed to the main branch. We can choose the files which 
        we want to commit and those files would be present in the Git index. Git staging area helps break one large commit into several 
@@ -55,10 +56,26 @@ A repository containing the answers of all the questions in the Github assignmen
           Branch - Create a separate code base separate from the main branch and make changes to that codebase(usually adding a separate 
           feature) and then merge the changes to the main branch. Useful for collobaration.
           
-   # 13) - Difference between Pull Request and Branch?.
-           Pull request is made to the users to let them know/ approve the changes made to their code by us. A git branch is created
-           to create a separate copy/version of the main code in the main branch so that developers can work without affecting the 
-           code in the main branch.
+  # 13) - Difference between Pull Request and Branch?.
+           Pull request is made to the users to let them know/ approve the changes made to their code by us and then merge the changes.            A git branch is created to create a separate copy/version of the main code in the main branch so that developers can work 
+           without affecting the code in the main branch.
+           
+           
+   # 14) - Difference between Git Pull and Git Fetch?.
+           Git Fetch just copies the git metadata to the local system from the main repository. Git Pull merges the changes made to code
+           to the main branch. Git Pull is Git Fetch + Merge.
+   
+   
+   # 15) -  How to revert to previous commit in Git?.
+            The best practice to revert to a commit is to use the git checkout followed by the commit id. So the command would be
+            git checkout commitid.
+      
+   # 16) - Advaantages of Forking Workflow?
+            The benefits of forking are mainly,we do not make any direct changes to the original repository. We get a clone or a copy 
+           of the original repository and we can make all changes we want and then submit a pull request to the author of the original
+           repository.
+    
+          
  
    
         
