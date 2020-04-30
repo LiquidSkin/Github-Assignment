@@ -74,6 +74,22 @@ A repository containing the answers of all the questions in the Github assignmen
             The benefits of forking are mainly,we do not make any direct changes to the original repository. We get a clone or a copy 
            of the original repository and we can make all changes we want and then submit a pull request to the author of the original
            repository.
+           
+   # 17)- Difference between HEAD, working tree and index in Git?.
+          Head is the current working branch or the last committed branch on the working tree.
+          Index is the staging area where the commit files would be put before getting pushed to the branch.
+          Working Tree consists of all the files that are currently being worked upon.
+          
+   # 18) - How to identify if a branch has been merged into master branch?
+           We can use the command git branch --merged master to check out all the branches which have been merged to the main branch.
+           
+   # 19) - What is the use of Git Clone?.
+           Git clone is used to clone or get a copy of a repository with all its associated files in our local system. We can run the
+           application,make changes and then make a pull request after cloning.
+           
+           
+          
+         
     
           
  
