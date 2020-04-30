@@ -43,4 +43,22 @@ A repository containing the answers of all the questions in the Github assignmen
  # 10) - What is the use of a Git Config File?
          Git config file is used to modify and assign the settings of a repository. The Git config file usually contains the user email 
          user username. It also contains all the dependencies associated with a branch.
+         
+  # 11) - What is Git Fork?
+         Git Fork is used to propose changes to someone else's existing project or use someone else's repository as a starting point to
+         make changes to that repository.
+         
+  # 12) - Difference between Fork, Branch and Clone?.
+          Fork - Use someone else's branch as a starting point to start making changes.
+          Clone - Copy an entire repository to one's local system and start working on that repository. Can be used for pull requests
+          later.
+          Branch - Create a separate code base separate from the main branch and make changes to that codebase(usually adding a separate 
+          feature) and then merge the changes to the main branch. Useful for collobaration.
+          
+   # 13) - Difference between Pull Request and Branch?.
+           Pull request is made to the users to let them know/ approve the changes made to their code by us. A git branch is created
+           to create a separate copy/version of the main code in the main branch so that developers can work without affecting the 
+           code in the main branch.
+ 
+   
         
