@@ -169,6 +169,24 @@ A repository containing the answers of all the questions in the Github assignmen
            A git commit object contains a hashed tree which contains the git id created by the SHA Algorithm as a blob and other related
            metadata.
            
+   # 42) - One use of Github?.
+          Github helps developers showcase their work, work and collobarate on open source projects together.
+          
+     
+   # 43) - Alternative to Git?.
+          SVN, Perforce.
+          
+   # 44) - What is gist in Git?.
+           Gists are particular and specific services offered by a website like Github(eg: sharing code snippets)
+           
+   # 45) - What is a gist programming?.
+            Gist Programming is a simple way of sharing codes, code snippets through a sharing platform.
+           
+           
+   # 46) - Two git repository hosting services that are common?.
+            Bitbucket, Sourceforge, Gitlab.
+           
+           
            
           
          
